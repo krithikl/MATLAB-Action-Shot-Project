@@ -1,0 +1,1 @@
+images = GenerateImageList('D:\Krithik\Documents\School\ENGGEN 131\Project 1\SuppliedCode\tiny', 'png');
